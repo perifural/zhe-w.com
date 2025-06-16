@@ -1,17 +1,47 @@
-# Welcome to MkDocs
+## 📄About Me
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- **REDACTED FOR PRIVACY**
 
-## Commands
+## 📬 Contact Information
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- **Email:** https://privacyrelay.kevin.plus/domain/zhe-w.com
+- **Phone:** REDACTED FOR PRIVACY
+- **Location:** 227-2, REDACTED, REDACTED
+- **Website:** *this*
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 💼 Summary
+
+- Missing
+
+
+---
+
+## 🛠 Skills
+
+- Missing
+
+---
+
+## 👨‍💻 Experience
+
+- Missing  
+
+---
+
+## 🎓 Education
+
+- **REDACTED of Applied Science in REDACTED Engineering**
+
+---
+
+## 🏆 Projects
+
+- Missing
+
+---
+
+## 📌 References
+- Available upon request at [postmaster@kevin.plus](mailto:postmaster@kevin.plus) 
+

@@ -2,3 +2,8 @@ site_name: REDACTED FOR PRIVACY
 site_url: https://zhe-w.com
 theme:
   name: material
+  icon:
+    logo: material/account-circle
+  palette:
+    primary: green
+    accent: green
