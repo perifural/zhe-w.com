@@ -15,7 +15,7 @@
 
 ## Summary
 
-- <img src="./index.assets/missing.png" alt="missing" style="zoom:15%;" /> 
+<img src="./index.assets/missing.png" alt="missing" style="zoom:15%;" /> 
 
 
 
@@ -27,7 +27,7 @@
 
 ## Experience
 
-- 应是天仙狂醉，乱把 <img src="./index.assets/cloudflare.png" alt="cloudflare" style="zoom:3%;" /> 揉碎。
+- 应是天仙狂醉，乱把白云揉碎。
 
 
 
