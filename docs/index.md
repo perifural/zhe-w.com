@@ -27,7 +27,7 @@
 
 ## Experience
 
-- 应是天仙狂醉，乱把<img src="./index.assets/cloudflare.png" alt="cloudflare" style="zoom:10%;" />揉碎。
+- 应是天仙狂醉，乱把 <img src="./index.assets/cloudflare.png" alt="cloudflare" style="zoom:3%;" /> 揉碎。
 
 
 
