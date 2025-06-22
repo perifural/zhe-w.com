@@ -1,47 +1,48 @@
-## 📄About Me
+## About Me
 
 - **REDACTED FOR PRIVACY**
 
-## 📬 Contact Information
+
+
+## Contact Information
 
 - **Email:** https://privacyrelay.kevin.plus/domain/zhe-w.com
 - **Phone:** REDACTED FOR PRIVACY
 - **Location:** 227-2, REDACTED, REDACTED
-- **Website:** *this*
-
----
-
-## 💼 Summary
-
-- Missing
+- **Website:** http://perifural.com
 
 
----
 
-## 🛠 Skills
+## Summary
 
-- Missing
+- <img src="./index.assets/missing.png" alt="missing" style="zoom:15%;" /> 
 
----
 
-## 👨‍💻 Experience
 
-- Missing  
+## Skills
 
----
+- Tell you I have a friend. 
 
-## 🎓 Education
+
+
+## Experience
+
+- 应是天仙狂醉，乱把<img src="./index.assets/cloudflare.png" alt="cloudflare" style="zoom:10%;" />揉碎。
+
+
+
+## Education
 
 - **REDACTED of Applied Science in REDACTED Engineering**
 
----
 
-## 🏆 Projects
 
-- Missing
+## Projects
 
----
+- Instant noodles soaked in orange juice, with original seasoning. 
 
-## 📌 References
+
+
+## References
 - Available upon request at [postmaster@kevin.plus](mailto:postmaster@kevin.plus) 
 
