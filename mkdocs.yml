@@ -1,5 +1,6 @@
 site_name: REDACTED FOR PRIVACY
 site_url: https://zhe-w.com
+
 theme:
   name: material
   icon:
@@ -7,3 +8,10 @@ theme:
   palette:
     primary: green
     accent: green
+
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
