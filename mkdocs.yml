@@ -1,13 +1,15 @@
-site_name: REDACTED FOR PRIVACY
+site_name: Gara Otterdog
 site_url: https://zhe-w.com
 
 theme:
   name: material
   icon:
-    logo: material/account-circle
+    logo: fontawesome/solid/otter
   palette:
     primary: green
     accent: green
+  features:
+    - header.autohide
 
 markdown_extensions:
   - pymdownx.caret
@@ -15,3 +17,5 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true
+
+copyright: "&copy; 2025 perifural.com"
