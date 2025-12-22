@@ -1,5 +1,5 @@
 ---
-icon: lucide/paw-print
+icon: lucide/bone
 title: Home
 ---
 

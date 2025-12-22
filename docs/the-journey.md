@@ -1,3 +1,7 @@
+---
+icon: lucide/graduation-cap
+---
+
 # Course Checklist
 
 ## Required Courses (114 cr.)
