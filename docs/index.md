@@ -1,6 +1,6 @@
 ---
 icon: lucide/paw-print
-title: Caramel Gara
+title: Home
 ---
 
-Hello
+# Hello
