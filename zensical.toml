@@ -11,4 +11,4 @@ generator = false
 logo = "lucide/paw-print"
 
 [project.theme]
-favicon = "icons/icon-clr.png"
+favicon = "icons/favicon.png"
