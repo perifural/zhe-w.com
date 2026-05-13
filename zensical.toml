@@ -2,7 +2,7 @@
 site_name = "Caramel Gara"
 site_url = "https://zhe-w.com"
 site_author = "Caramel Gara"
-copyright = "&copy; 2025 Caramel Gara"
+copyright = "&copy; 2023-2026 Caramel Gara"
 
 [project.extra]
 generator = false
