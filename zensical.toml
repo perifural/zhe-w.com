@@ -4,9 +4,6 @@ site_url = "https://zhe-w.com"
 site_author = "Caramel Gara"
 copyright = "&copy; 2023-2026 Caramel Gara"
 
-[project.extra]
-generator = false
-
 [project.theme.icon]
 logo = "lucide/paw-print"
 
