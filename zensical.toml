@@ -9,6 +9,7 @@ logo = "lucide/paw-print"
 
 [project.theme]
 favicon = "images/favicon.png"
+custom_dir = "overrides"
 
 # Palette toggle for automatic mode
 [[project.theme.palette]]
