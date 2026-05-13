@@ -1,5 +1,6 @@
 ---
 icon: lucide/graduation-cap
+title: UBC ELEC
 ---
 
 # UBC BASc ELEC Engineering (2022)

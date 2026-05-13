@@ -3,6 +3,7 @@ site_name = "Caramel Gara"
 site_url = "https://zhe-w.com"
 site_author = "Caramel Gara"
 copyright = "&copy; 2023-2026 Caramel Gara"
+extra_css = ["stylesheets/extra.css"]
 
 [project.extra]
 generator = false
@@ -37,3 +38,9 @@ toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
 primary = "orange"
 accent = "orange"
+
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji" 
+emoji_generator = "zensical.extensions.emoji.to_svg"
+
+[project.markdown_extensions.attr_list]
