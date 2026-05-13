@@ -5,16 +5,16 @@ title: Home
 
 # Hello, it’s Gara!
 
-[:simple-qq:&nbsp;&nbsp;QQ](https://qm.qq.com/q/fhDRf3qNBC){ .md-button style="width: 180px; text-align: center;" }
+[:fontawesome-brands-qq:&nbsp;&nbsp;QQ](https://qm.qq.com/q/fhDRf3qNBC){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
-[:simple-x:&nbsp;&nbsp;Twitter](https://x.com/perifural){ .md-button style="width: 180px; text-align: center;" }
+[:fontawesome-brands-x-twitter:&nbsp;&nbsp;Twitter](https://x.com/perifural){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
-[:simple-discord:&nbsp;&nbsp;Discord](#){ #discord-copy .md-button style="width: 180px; text-align: center;" }
+[:fontawesome-brands-discord:&nbsp;&nbsp;Discord](#){ #discord-copy .md-button style="width: 180px; text-align: center;" }
 <span id="discord-copy-indicator" style="margin-left: 8px; opacity: 0;"></span>
 
-[:simple-github:&nbsp;&nbsp;GitHub](https://github.com/perifural){ .md-button style="width: 180px; text-align: center;" }
+[:fontawesome-brands-github:&nbsp;&nbsp;GitHub](https://github.com/perifural){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
-[:fontawesome-brands-linkedin:&nbsp;&nbsp;LinkedIn](https://github.com/perifural){ .md-button style="width: 180px; text-align: center;" }
+[:fontawesome-brands-linkedin:&nbsp;&nbsp;LinkedIn](https://github.com/perifural){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
 
 <script>
