@@ -2,7 +2,7 @@
 icon: lucide/graduation-cap
 ---
 
-# Course Checklist
+# UBC BASc ELEC Engineering (2022)
 
 ## Required Courses (114 cr.)
 
@@ -50,7 +50,7 @@ icon: lucide/graduation-cap
 
 - [x] APSC 450 (2) Professional Engineering Practice
 - [x] ELEC 481 (3) Economic Analysis of Engineering Projects
-- [ ] <mark style="background-color: lightgreen;">ELEC 491 (5/10) Electrical Engineering Capstone Design Project</mark>
+- [x] ELEC 491 (10) Electrical Engineering Capstone Design Project
 
 ## Electives (37 cr.)
 
@@ -58,18 +58,18 @@ icon: lucide/graduation-cap
 
 Complete one of these courses:
 
-- [ ] ~~STAT 302 (3) Introduction to Probability~~
+- [ ] STAT 302 (3) Introduction to Probability
 - [x] MATH 302 (3) Introduction to Probability
-- [ ] ~~MATH 318 (3) Probability with Physical Applications~~
+- [ ] MATH 318 (3) Probability with Physical Applications
 
 ### Breadth Electives (4 cr.)
 
 Complete at least 4 credits from this list of courses:
 
-- [ ] ~~CPEN 311 (4) Digital Systems Design~~
-- [ ] ~~CPEN 333 (3/4) Software Design for Engineers II~~
+- [ ] CPEN 311 (4) Digital Systems Design
+- [ ] CPEN 333 (3/4) Software Design for Engineers II
 - [x] ELEC 331 (4) Computer Communications
-- [ ] ~~ELEC 352 (4) Electric Energy Systems~~
+- [ ] ELEC 352 (4) Electric Energy Systems
 
 ### Advanced Electives (15 cr.)
 
@@ -83,7 +83,7 @@ Complete at least 15 credits from this list of courses:
 - [ ] ELEC 402 (4) Introduction to VLSI Systems
 - [ ] ELEC 403 (3) Advanced Digital VLSI Systems
 - [ ] ELEC 404 (3) RF Integrated Circuits
-- [ ] <mark style="background-color: lightgreen;">ELEC 411 (3) Antennas and Propagation</mark>
+- [x] ELEC 411 (3) Antennas and Propagation
 - [x] ELEC 412 (3) Optical Waveguides and Photonics
 - [ ] ELEC 413 (3) Semiconductor Lasers
 - [ ] ELEC 415 (3) Semiconductor Devices: Physics, Design and Analysis
@@ -92,7 +92,7 @@ Complete at least 15 credits from this list of courses:
 - [ ] ELEC 432 (3) Communication Systems II
 - [ ] ELEC 433 (3) Error Control Coding for Communications and Computers
 - [ ] ELEC 434 (3) Introduction to Optical Networks
-- [ ] <mark style="background-color: lightgreen;">ELEC 441 (3) Control Systems</mark>
+- [x] ELEC 441 (3) Control Systems
 - [ ] ELEC 442 (3) Introduction to Robotics
 - [ ] ELEC 451 (4) Power Electronics
 - [ ] ELEC 452 (3) Industrial Drives
@@ -112,11 +112,23 @@ Complete at least 15 credits from this list of courses:
 - [ ] ELEC 474 (3) Biophotonics
 - [ ] ELEC 499 (3/6) Undergraduate Thesis
 
-*An alternative pathway is to complete 8 credits from the list of breadth electives and 12 credits from the list of advanced electives.*
+> An alternative pathway is to complete 8 credits from the list of breadth electives and 12 credits from the list of advanced electives.
 
 ### Science Elective (3 cr.)
 
 - [x] FNH 200 (3) Exploring Our Food
+
+> Students can choose their science elective from the following list of courses:
+>
+> - **ASTR:** 102, 200
+> - **ATSC:** 113
+> - **BIOL**: 111, 112, 121, 230, 345
+>   - Typically, any University level Biology course can be used as a Science elective.
+> - **CHEM**: 201, 208, 250, 251, 260
+> - **EOSC**: 110, 112, 114, 210
+> - **FNH**: 200
+> - **GEOB**: 102, 103
+> - **PHYS**: 200, 250, 330, 333, 404
 
 ### Complementary Studies (9 cr.)
 
@@ -130,6 +142,10 @@ Complete at least 15 credits from this list of courses:
 
 - [x] PLAN 341 (3) Smart Cities: Concepts, Methods and Design
 
+> Complementary studies planning: 
+>
+> https://academicservices.engineering.ubc.ca/course-planning/ 
+
 
 ### Free Electives (3 cr.)
 
@@ -139,7 +155,7 @@ Complete at least 15 credits from this list of courses:
 
 ------
 
-This list is for reference only. Always check: 
+This list is for reference only. 
 
 https://ubcece.notion.site/BASc-Electrical-Engineering-Checklist-2022-c0a4f8058c6644449cc5859494ffe1f0
 
