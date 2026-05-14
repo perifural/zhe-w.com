@@ -43,4 +43,7 @@ accent = "orange"
 emoji_index = "zensical.extensions.emoji.twemoji" 
 emoji_generator = "zensical.extensions.emoji.to_svg"
 
+[project.markdown_extensions.pymdownx.tasklist]
+custom_checkbox = true
+
 [project.markdown_extensions.attr_list]
