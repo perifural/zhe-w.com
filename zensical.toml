@@ -1,6 +1,6 @@
 [project]
 site_name = "Caramel Gara"
-site_url = "https://zhe-w.com"
+site_url = "https://gara.perifural.com"
 site_author = "Caramel Gara"
 copyright = "&copy; 2023-2026 Caramel Gara"
 extra_css = ["stylesheets/extra.css"]
