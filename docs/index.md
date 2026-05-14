@@ -5,7 +5,7 @@ title: Home
 
 # Hello, it’s Gara!
 
-<img class="avatar avatar--soft" src="images/avatar.png" alt="Caramel Gara">
+<img class="avatar avatar--soft" src="images/avatar.jpg" alt="Caramel Gara">
 
 [:fontawesome-brands-qq:&nbsp;&nbsp;QQ](https://qm.qq.com/q/fhDRf3qNBC){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
