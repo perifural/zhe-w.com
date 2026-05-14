@@ -14,7 +14,7 @@ title: Home
 
 [:fontawesome-brands-github:&nbsp;&nbsp;GitHub](https://github.com/perifural){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
-[:fontawesome-brands-linkedin:&nbsp;&nbsp;LinkedIn](https://github.com/perifural){ .md-button target="_blank" style="width: 180px; text-align: center;" }
+[:fontawesome-brands-linkedin:&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/zhe-w/){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
 
 <script>
