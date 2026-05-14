@@ -5,6 +5,8 @@ title: Home
 
 # Hello, it’s Gara!
 
+<img class="avatar avatar--soft" src="images/avatar.png" alt="Caramel Gara">
+
 [:fontawesome-brands-qq:&nbsp;&nbsp;QQ](https://qm.qq.com/q/fhDRf3qNBC){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
 [:fontawesome-brands-x-twitter:&nbsp;&nbsp;Twitter](https://x.com/perifural){ .md-button target="_blank" style="width: 180px; text-align: center;" }
@@ -32,3 +34,28 @@ document.getElementById("discord-copy")?.addEventListener("click", async (e) => 
   }, 1500);
 });
 </script>
+
+<style>
+.avatar {
+	width: 180px;
+	height: 180px;
+	object-fit: cover;
+	background-position: center;
+	margin-bottom: var(--spacing-l);
+  }
+
+   /* Modifier for no avatar rounding */
+   .avatar--none {
+	border-radius: 0%;
+  }
+
+  /* Modifier for rounded avatar */
+  .avatar--rounded {
+	border-radius: 50%;
+  }
+
+  /* Modifier for slightly rounded corners */
+  .avatar--soft {
+	border-radius: 16px;
+  }
+  </style>
